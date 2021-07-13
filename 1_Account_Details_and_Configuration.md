@@ -16,3 +16,10 @@
 | ------- |
 | Active Yes/No |
 | Account Mail ID |
+
+### Add and Authorize new GCP Mail ID
+**Command:** gcloud auth login
+| Requirement |
+| ----------- |
+| GCP Mail ID |
+| Password |
