@@ -1,2 +1,8 @@
 ### Find Active GCP account ID and Project details
-gcloud config list
+Command: gcloud config list
+Output Format
+| Columns |
+| ------- |
+| Account Mail ID |
+| Usage Reporting Enable/Disable |
+| Active Project Name |
